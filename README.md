@@ -1,0 +1,2 @@
+# KedicikBOT
+İşlevsel discord botu
